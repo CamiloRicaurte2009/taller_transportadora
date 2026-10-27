@@ -1,0 +1,11 @@
+id,peso,alto,ancho,profundidad,latitud,longitud,valor,nombre
+1,2,20,30,10,4.4389,-75.2322,1,Parque_Murillo_Toro
+2,8,35,35,40,4.4247,-75.2067,3,Centro_Comercial_Multicentro
+3,25,90,60,50,4.4310,-75.1990,2,Universidad_Tolima
+4,12,30,30,30,4.4445,-75.2395,4,Conservatorio_Tolima
+5,10,20,20,20,4.4600,-75.2150,2,Barrio_Restrepo
+6,3,15,15,15,4.4000,-75.1500,1,Barrio_Picalena
+7,40,30,30,30,4.4300,-75.2500,2,Barrio_Cadiz
+8,5,25,25,25,4.4650,-75.2400,3,Barrio_Salado
+9,6,30,20,15,4.4466,-75.2285,2,Hospital_Federico_Lleras
+10,4,20,20,20,4.4108,-75.1995,1,Centro_Comercial_Acqua
